@@ -1,2 +1,4 @@
 #!/bin/bash
-vlc StarWars_VI
+telnet towel.blinkenlights.nl
+
+
