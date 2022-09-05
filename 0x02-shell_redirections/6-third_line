@@ -1,2 +1,2 @@
 #!/bin/bash 
-head -4 iacta|tail +4
+awk "NR==3" iacta
