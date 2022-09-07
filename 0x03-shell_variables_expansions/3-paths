@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ls -al $PATH|grep -c ^d
+find . -type d $PATH |wc -l
